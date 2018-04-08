@@ -6,12 +6,13 @@ body{
 	height: 100vh;
 	margin-bottom:1px; 
 	padding-bottom:0px;
-	background-image: url('https://cdn.pixabay.com/photo/2018/03/27/11/21/laptop-3265726_960_720.jpg');
+	background-image: url('image/jumbo.jpg');
 	background-size: cover;
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	text-align: center;
+
 }
 
 h1, h3 {
