@@ -114,3 +114,8 @@ color:#FFFFFF;
 .contact{
 	margin-left: 15px;
 }
+@media(max-width: 768px){
+	#menu{
+		display:none;
+	}
+}
