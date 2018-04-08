@@ -1,0 +1,116 @@
+body{
+	background-color: #D8D8D8;
+}
+/*jumbotron*/
+.jumbotron-fluid{
+	height: 100vh;
+	margin-bottom:1px; 
+	padding-bottom:0px;
+	background-image: url('https://cdn.pixabay.com/photo/2018/03/27/11/21/laptop-3265726_960_720.jpg');
+	background-size: cover;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+h1, h3 {
+	text-align: center;
+	color:#feadaa;
+	font-family: 'Merienda', cursive;
+
+}
+h3{
+	border-bottom: 1px solid  #F8E0F7; 
+	bord
+}
+h2.lead{
+	font-size: 4.25rem;
+	text-align: center;
+	color:#feadaa;
+
+}
+#mer{
+	width: 150px;
+	height: 150px
+}
+h2{
+
+	font-family: 'Merienda', cursive;
+}
+h5{
+	color:#feadaa;
+	font-weight: bold;
+	font-family: 'Merienda', cursive;
+}
+a{
+	color: #2E2E2E;
+	font-weight: bold;	
+}
+
+p{
+
+	font-family: 'Merienda', cursive;
+}
+.navbar.header{
+	background-color: #feadaa;
+}
+
+.tech{
+	width: 100px;
+	height: 100px;
+}
+
+
+.fa-github{
+	color: #feadaa;
+}
+
+.footer{
+	background-color: #feadaa;
+}
+
+.fa-html5{
+	color: #D26E09;
+}
+.fa-css3-alt{
+	color: #1c88c7;
+}
+.fa-js{
+color: #F7DF21;
+}
+
+.fa-php{
+	color: #777ab3
+}
+
+.footer{
+	background-color: #feadaa;
+	
+}
+
+.text{
+	font-size: 30px; 
+	color: #848484;
+}
+
+.fa-music{
+	color: #FFFFFF;
+}
+.fa-tv{
+color:#FFFFFF;
+	
+}
+
+.fa-wifi{
+	color: #FFFFFF;
+}
+#moi{
+	width: 317px;
+    height: 385px;
+
+}
+
+.contact{
+	margin-left: 15px;
+}
