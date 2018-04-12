@@ -1,5 +1,6 @@
 body{
 	background-color: #D8D8D8;
+	margin:0;
 }
 /*jumbotron*/
 .jumbotron-fluid{
@@ -14,10 +15,18 @@ body{
 	text-align: center;
 
 }
+.fa-github:hover{
+	color:#fee;
+}
 
-h1, h3 {
+h1{
+	color:#81DAF5;
+	font-family: 'Merienda', cursive;
+}
+
+ h3 {
 	text-align: center;
-	color:#feadaa;
+	color:#00BFFF;
 	font-family: 'Merienda', cursive;
 
 }
@@ -28,7 +37,7 @@ h3{
 h2.lead{
 	font-size: 4.25rem;
 	text-align: center;
-	color:#feadaa;
+	color:#81DAF5;
 
 }
 #mer{
@@ -40,13 +49,12 @@ h2{
 	font-family: 'Merienda', cursive;
 }
 h5{
-	color:#feadaa;
-	font-weight: bold;
 	font-family: 'Merienda', cursive;
 }
 a{
 	color: #2E2E2E;
 	font-weight: bold;	
+	font-family: 'Merienda', cursive;
 }
 
 p{
@@ -54,7 +62,8 @@ p{
 	font-family: 'Merienda', cursive;
 }
 .navbar.header{
-	background-color: #feadaa;
+	background-color: #81DAF5;
+	
 }
 
 .tech{
@@ -64,12 +73,9 @@ p{
 
 
 .fa-github{
-	color: #feadaa;
+	color: #81DAF5;
 }
 
-.footer{
-	background-color: #feadaa;
-}
 
 .fa-html5{
 	color: #D26E09;
@@ -86,7 +92,8 @@ color: #F7DF21;
 }
 
 .footer{
-	background-color: #feadaa;
+	background-color: #81DAF5;
+
 	
 }
 
@@ -119,4 +126,11 @@ color:#FFFFFF;
 	#menu{
 		display:none;
 	}
+}
+
+.card.text-center.col-xl-6,#card2{
+	width: 527px;
+}
+.card.body{
+	width:600px;
 }
