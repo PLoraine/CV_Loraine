@@ -21,13 +21,13 @@ body{
 
 h1{
 	color:#81DAF5;
-	font-family: 'Merienda', cursive;
+font-family: 'Roboto', sans-serif;
 }
 
  h3 {
 	text-align: center;
 	color:#00BFFF;
-	font-family: 'Merienda', cursive;
+font-family: 'Roboto', sans-serif;
 
 }
 h3{
@@ -46,20 +46,22 @@ h2.lead{
 }
 h2{
 
-	font-family: 'Merienda', cursive;
+	font-family: 'Roboto', sans-serif;
+
 }
 h5{
-	font-family: 'Merienda', cursive;
+	font-family: 'Roboto', sans-serif;
+
 }
 a{
 	color: #2E2E2E;
 	font-weight: bold;	
-	font-family: 'Merienda', cursive;
+	font-family: 'Roboto', sans-serif;
+
 }
 
 p{
-
-	font-family: 'Merienda', cursive;
+font-family: 'Roboto', sans-serif;
 }
 .navbar.header{
 	background-color: #81DAF5;
@@ -98,7 +100,7 @@ color: #F7DF21;
 }
 
 .text{
-	font-size: 30px; 
+	font-size: 20px; 
 	color: #848484;
 }
 
